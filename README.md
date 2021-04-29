@@ -21,4 +21,6 @@ Now paste it somewhere, [search bar in this example]
 You will see a very long URL as shown above.
 
 My extension helps to remove, such intermediate URLs
+
+
 ![image](https://user-images.githubusercontent.com/77914957/116513521-58766d00-a8e7-11eb-99aa-129f989668a2.png)
