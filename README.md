@@ -24,3 +24,16 @@ My extension helps to remove, such intermediate URLs
 
 
 ![image](https://user-images.githubusercontent.com/77914957/116513521-58766d00-a8e7-11eb-99aa-129f989668a2.png)
+
+
+# Contributing
+
+If you like to make contributions, then you are very welcomed to do so. Contribute by creating pull request with appropriate title and description
+
+# Issues / Bug
+
+Open Issue from Issue tab if you find any. You are more than welcomed to do so.
+
+# Thanks
+
+If you find this tampermonkey script useful, please give a star.
