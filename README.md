@@ -1,4 +1,4 @@
-# DirectGoogleSearchURLs
+# DirectGoogleSearchURLs - TamperMonkey Script
 Remove Intermediate Google Tracking Using TamperMonkey Script
 
 ## What Does It Do?
